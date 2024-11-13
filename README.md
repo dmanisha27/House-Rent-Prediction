@@ -43,3 +43,7 @@ Rental price prediction is valuable in the real estate industry for property man
    ```
 2. **Run the Script**: Execute the `house_rent_prediction.py` file in your Python environment.
 3. **Usage**: The script includes an interactive component where users can input property details to predict rental prices.
+
+## Summary
+
+This project uses machine learning to predict house rent based on features like BHK, size, area type, city, furnishing status, tenant type, and bathrooms. It preprocesses data, trains a Random Forest Regressor model, and evaluates performance using error metrics. Users can input property details to get rental predictions, with potential improvements to add location data and test additional models.
